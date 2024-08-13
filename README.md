@@ -8,7 +8,7 @@ Welcome to my personal NvChad configuration! This repository contains my custom 
 
 2. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name ~/.config/nvim/lua/custom
+    git clone https://github.com/yourusername/Malvi1697/myNvchadConfig ~/.config/nvim/lua/custom
     ```
 
 3. **Start Neovim**:
